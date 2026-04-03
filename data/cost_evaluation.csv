@@ -1,0 +1,6 @@
+Model,False Negatives,False Positives,Total Cost
+Logistic Regression,435,1589,2894
+Decision Tree,617,1255,3106
+Random Forest,852,868,3424
+Gradient Boosting,801,804,3207
+XGBoost,400,1618,2818
